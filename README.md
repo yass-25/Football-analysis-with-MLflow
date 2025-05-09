@@ -91,8 +91,4 @@ Joueur,Distance (px),Vitesse moy (px/frame),Temps gauche,Temps droite,Frames
 
 Tous ces éléments sont visibles dans l’interface MLflow.
 
----
-
-## Auteur
-
-Projet réalisé dans le cadre du PFE MAIA à Télécom SudParis.
+--
